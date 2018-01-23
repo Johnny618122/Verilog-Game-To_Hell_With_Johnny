@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Mon Nov 28 20:43:07 2016
+Quartus Prime Version : 16.0.0 Build 211 04/27/2016 SJ Lite Edition
+Revision Name : vga
+Top-level Entity Name : vga
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 313
+Total pins : 55
+Total virtual pins : 0
+Total block memory bits : 57,600
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1
+Total DLLs : 0

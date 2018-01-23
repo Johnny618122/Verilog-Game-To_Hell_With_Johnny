@@ -1,0 +1,8 @@
+
+State Machine - |vga|crtl:crtl|board_sel
+Name board_sel.011 board_sel.000 board_sel.001 board_sel.010 board_sel.100 
+board_sel.010 0 0 0 0 0 
+board_sel.001 0 0 1 1 0 
+board_sel.000 0 1 0 1 0 
+board_sel.011 1 0 0 1 0 
+board_sel.100 0 0 0 1 1 
